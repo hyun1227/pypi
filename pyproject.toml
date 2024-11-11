@@ -1,8 +1,8 @@
 [project]
-name = "example_package_hyuaisl"
+name = "example_package_hyun1227"
 version = "0.0.1"
 authors = [
-  { name="HYU AISL", email="choye@hanyang.ac.kr" },
+  { name="Hyeonsu", email="hyun12278@hanyang.ac.kr" },
 ]
 description = "A small example package"
 readme = "README.md"
